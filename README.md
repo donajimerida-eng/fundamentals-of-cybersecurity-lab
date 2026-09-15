@@ -74,8 +74,8 @@ I am continuing to develop practical cybersecurity projects focused on:
 
 ### Author
 
-**ProoV
+ProoV
 ### Realizo
-Donaji Montoya Merida**
+Donaji Montoya Merida
 
 Cybersecurity | Network Security | SOC Analyst Path
