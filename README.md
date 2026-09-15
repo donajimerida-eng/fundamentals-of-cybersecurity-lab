@@ -48,7 +48,7 @@ During this lab I practiced:
 
 **Evaluator confidence:** 93%
 
-## 📸 Evidence
+##  Evidence
 
 Evidence of the final evaluation will be included in the `evidence` folder.
 
