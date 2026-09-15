@@ -52,13 +52,13 @@ During this lab I practiced:
 
 Evidence of the final evaluation will be included in the `evidence` folder.
 
-## 📚 What I Learned
+##  What I Learned
 
 This project strengthened my understanding of cybersecurity fundamentals and helped me apply concepts related to security analysis, incident response and defensive cybersecurity.
 
 It also reinforced my understanding of how SOC analysts evaluate alerts, threats and security incidents.
 
-## 🚀 Next Steps
+##  Next Steps
 
 I am continuing to develop practical cybersecurity projects focused on:
 
