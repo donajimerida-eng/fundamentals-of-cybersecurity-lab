@@ -1,12 +1,12 @@
-# 🛡️ Fundamentals of Cybersecurity Lab
+#  Fundamentals of Cybersecurity Lab
 
 Practical cybersecurity project completed as part of the **Fundamentals of Cybersecurity** assessment.
 
-## 🎯 Objective
+##  Objective
 
 Apply fundamental cybersecurity concepts to practical security scenarios involving threat identification, risk assessment, incident response and defensive security.
 
-## 🔍 Topics Covered
+##  Topics Covered
 
 - Threat identification
 - Indicators of Compromise (IOCs)
@@ -17,7 +17,7 @@ Apply fundamental cybersecurity concepts to practical security scenarios involvi
 - Security documentation
 - SOC fundamentals
 
-## 🧠 Frameworks & Concepts
+##  Frameworks & Concepts
 
 Concepts related to:
 
@@ -28,7 +28,7 @@ Concepts related to:
 - Network Security
 - Blue Team / SOC Operations
 
-## 🧪 Practical Skills
+##  Practical Skills
 
 During this lab I practiced:
 
@@ -40,9 +40,9 @@ During this lab I practiced:
 - Documenting cybersecurity findings
 - Applying security frameworks to practical scenarios
 
-## 📊 Final Result
+##  Final Result
 
-**Score:** 100 / 100
+**Score:** 88 / 100
 
 **Evaluation:** Excellent — Passed
 
